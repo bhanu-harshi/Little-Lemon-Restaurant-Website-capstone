@@ -1,4 +1,97 @@
 <<<<<<< HEAD
+
+Little Lemon Restaurant Website – Capstone Project
+Project Overview
+
+The Little Lemon Restaurant Website is a simple, responsive, and accessible web app created as part of the Meta Front-End Developer Capstone Project.
+
+It allows users to:
+
+Browse the restaurant menu
+
+Learn about Little Lemon
+
+Reserve a table online
+
+The project is built using React.js, React Router, and CSS, focusing on clean design, UX, and accessibility.
+
+Features
+
+Responsive design for desktop and mobile
+
+Navigation menu for Home, About, Menu, Booking, Login, and Signup
+
+Table booking form with validation and confirmation
+
+Menu section displaying categories: Starters, Main Course, Desserts
+
+User authentication pages (Login and Signup)
+
+Accessible components with proper HTML semantics
+
+Project Structure
+Little-Lemon-Restaurant-Website-capstone/
+├── src/
+│   ├── components/      # Reusable UI components (Header, BookingForm)
+│   ├── pages/           # Main pages (Home, About, Menu, Booking, Login, Signup)
+│   ├── assets/          # Images (menu items, background, logo)
+│   ├── App.js
+│   ├── index.js
+│   └── index.css
+├── package.json
+├── package-lock.json
+└── README.md
+Getting Started
+Prerequisites
+
+Node.js installed on your system
+
+Git installed for cloning the repository
+Installation
+
+Clone the repository:Navigate into the project folder:
+
+cd Little-Lemon-Restaurant-Website-capstone
+
+
+Install dependencies:
+
+npm install
+
+
+Start the development server:
+
+npm start
+Open http://localhost:3000
+ in your browser to view the website.
+
+ Available Scripts (from Create React App)
+
+In the project directory, you can run:
+
+npm start – Runs the app in development mode
+
+npm test – Launches the test runner
+
+npm run build – Builds the app for production to the build folder
+
+npm run eject – Ejects the app for full control of configuration (one-way operation)
+
+For more details, see the Create React App documentation
+.
+
+Technologies Used
+
+React.js – Front-end library
+
+React Router – Client-side routing
+
+CSS – Styling components and pages
+
+Git & GitHub – Version control and repository hosting
+
+Extra Information:
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -1,0 +1,38 @@
+.booking-form {
+  display: flex;
+  flex-direction: column;
+  max-width: 400px;
+  margin: auto;
+}
+
+.booking-form label {
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+.booking-form input {
+  padding: 8px;
+  margin-top: 5px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+
+.booking-form button {
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #f4d03f; /* Little Lemon yellow */
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.booking-form button:hover {
+  background-color: #f1c40f;
+}
+
+.error {
+  color: red;
+  font-size: 0.9rem;
+  margin-top: 2px;
+}

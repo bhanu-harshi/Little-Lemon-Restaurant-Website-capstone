@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Little-Lemon-Restaurant-Website-capstone
+The Little Lemon Restaurant Website is a simple and responsive web app created as part of the Meta Front-End Developer Capstone Project. It lets users browse the restaurant menu, learn about Little Lemon, and reserve a table online.  The project is built using React.js, React Router, and CSS to create a clean, easy-to-use, and accessible design.
+>>>>>>> d86dbb4b01797f8b0018e0265698dbbe0cdc5030
